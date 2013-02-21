@@ -1,5 +1,5 @@
 #!/usr/bin/php
-<?
+<?php
 
 $str = file_get_contents('out.txt');
 
